@@ -1,7 +1,10 @@
-[![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)
+# _s modified
 
-_s
-===
+This is fork of the underscores theme. It has a few structural changes and updated node packages. I don't recommend using this for your own purposes since these modifications are tailored to me and I will probably not add any upstream changes from the underscores repo.
+
+Original readme (cli commands were changed and the section is no longer applicable):
+
+# _s
 
 Hi. I'm a starter theme called `_s`, or `underscores`, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for.
 
